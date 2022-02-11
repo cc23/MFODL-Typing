@@ -3,7 +3,7 @@ Formalizing Typing Rules for MFODL
 
 This copy of the MonPoly repository contains the theories added throughout my bachelor thesis: Typing.thy, Type_Soundness.thy. There are also changes to the other theories (primarily to Formula.thy and Event_Data.thy).
 
-The theorems and lemmas described in the thesis are marked with a comment, indicating the name used in the paper.
+The theorems and lemmas described in the thesis are marked with a comment, indicating the name used in the paper (thesis.pdf).
 
 MonPoly
 =======
